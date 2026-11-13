@@ -73,3 +73,7 @@ With the jump removed, the program's existing "clamp color depth to 24-bit" inst
 ## Disclaimer
 
 This repo doesn't include any of the original program's files. You need your own copy of 3D Home Architect Deluxe 3.0. The patcher only modifies your local copy. Keep the backup.
+
+## License
+
+The patcher and documentation in this repository are licensed under the MIT License. This license does not apply to 3D Home Architect Deluxe 3.0 or its original files, which are not included.
