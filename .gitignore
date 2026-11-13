@@ -1,0 +1,21 @@
+# Never commit the original program or its files (copyrighted by Broderbund).
+*.exe
+*.EXE
+*.dll
+*.DLL
+*.bak
+*.BAK
+*.hlp
+*.HLP
+*.cnt
+*.CNT
+
+# Ghidra project files
+*.gpr
+*.rep/
+*.lock
+*.lock~
+
+# Python
+__pycache__/
+*.pyc
